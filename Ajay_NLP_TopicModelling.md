@@ -41,7 +41,7 @@ So, LDA will now assign these documents to certain topics based on frequency of 
 
 <br>
 
-Thanks for Reading !!! :blush: 
+Thankyou for Reading !!! :blush: 
 
 You can reach me on social media via :
 
